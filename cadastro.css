@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 230px;
+}
+form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: whitesmoke;
+    box-shadow: black   20px;
+    border-radius: 10px;
+    padding: 20px;
+}
+input{
+    border:none;
+    
+    
+    
+}
+a{
+    color: red;
+}
+label{
+    padding-bottom: 10px;
+}
+#cadastrar{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    transition: 1.5s;
+    border-radius: 0%;
+}
+#cadastro :hover{
+    padding: 20px;
+    border-radius: 20px;
+    
+}
+
+
+
